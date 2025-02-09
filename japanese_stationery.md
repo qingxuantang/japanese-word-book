@@ -89,4 +89,46 @@
 - A4サイズ (A4 saizu) - A4尺寸
 - A5サイズ (A5 saizu) - A5尺寸
 - B5サイズ (B5 saizu) - B5尺寸
-- B6サイズ (B6 saizu) - B6尺寸 
+- B6サイズ (B6 saizu) - B6尺寸
+
+# 文具店对话集
+
+## 1. 笔类选购
+
+### 场景一：笔型选择
+B：書道用の筆はどこにありますか？
+(Shodou-you no fude wa doko ni arimasu ka?)
+- 书法用的毛笔在哪里？
+
+A：2階の和文具コーナーにございます。ご案内いたしましょうか？
+(Nikai no wabungu koonaa ni gozaimasu. Goannai itashimashou ka?)
+- 在二楼的日式文具区。需要我为您带路吗？
+
+### 场景二：墨水购买
+B：このペンに合うインクを探しています。
+(Kono pen ni au inku wo sagashite imasu.)
+- 在找适合这支笔的墨水。
+
+A：万年筆用のインクでしたら、こちらのコーナーに各色取り揃えております。
+(Mannenhitsu-you no inku deshitara, kochira no koonaa ni kakushoku torisoroeております。)
+- 如果是钢笔用墨水的话，这个区域备有各种颜色。
+
+## 2. 纸张选购
+
+### 场景一：用途确认
+B：絵を描くのに適した紙を探しています。
+(E wo kaku no ni tekishita kami wo sagashite imasu.)
+- 在找适合画画的纸。
+
+A：水彩画用ですか？それとも色鉛筆用でしょうか？
+(Suisaiga-you desu ka? Soretomo iro-enpitsu-you deshou ka?)
+- 是水彩画用的还是彩色铅笔用的呢？
+
+### 场景二：纸张规格
+B：A4サイズのコピー用紙はありますか？
+(A4 saizu no kopii-youshi wa arimasu ka?)
+- 有A4尺寸的复印纸吗？
+
+A：はい、厚さは何ミリをお求めですか？
+(Hai, atsusa wa nan-miri wo motome desu ka?)
+- 是的，您需要多少毫米厚度的？ 

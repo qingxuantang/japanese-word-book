@@ -8,6 +8,21 @@
 - 鶏皮 (とりかわ/torikawa) - 鸡皮
 - つくね (tsukune) - 鸡肉丸子
 - 焼き鳥盛り合わせ (やきとりもりあわせ/yakitori moriawase) - 烧鸟拼盘
+- 手羽先 (てばさき/tebasaki) - 鸡翅尖
+- 手羽元 (てばもと/tebamoto) - 鸡翅根
+- ささみ (sasami) - 鸡胸里脊
+- レバー (rebaa) - 鸡肝
+- 砂肝 (すなぎも/sunagimo) - 鸡胗
+- ハツ (hatsu) - 鸡心
+- ぼんじり (bonjiri) - 鸡尾椎
+- なんこつ (nankotsu) - 软骨
+- せせり (seseri) - 鸡颈肉
+- 白レバー (しろればー/shiro rebaa) - 白肝
+- ねぎま (negima) - 葱花鸡肉串
+- 皮ポン酢 (かわぽんず/kawa ponzu) - 柑橘醋汁鸡皮
+- 軟骨入りつくね (なんこついりつくね/nankotsu iri tsukune) - 软骨鸡肉丸
+- 梅肉ささみ (うめにくささみ/umeniku sasami) - 梅子鸡里脊
+- とりかわなんこつ/とりかわきも (torikawa nankotsu/torikawa kimo) - 鸡生蚝（位于脖子与胸部之间）
 
 ### 饭类 (Rice Dishes)
 - うな重 (うなじゅう/unajuu) - 鳗鱼饭
@@ -68,6 +83,18 @@
 - 山葵 (わさび/wasabi) - 芥末
 - 生姜 (しょうが/shouga) - 生姜
 - 七味唐辛子 (しちみとうがらし/shichimi tougarashi) - 七味粉
+- 一味唐辛子 (いちみとうがらし/ichimi tougarashi) - 辣椒粉
+- 山椒 (さんしょう/sanshou) - 花椒粉
+- 黒七味 (くろしちみ/kuro shichimi) - 黑七味粉（加入黑芝麻的特制七味）
+
+### 七味的七种配料 (Seven Spices in Shichimi)
+- 唐辛子 (とうがらし/tougarashi) - 辣椒
+- 山椒 (さんしょう/sanshou) - 花椒
+- 胡麻 (ごま/goma) - 芝麻
+- 麻の実 (あさのみ/asa no mi) - 大麻籽
+- 青のり (あおのり/ao nori) - 青海苔
+- 陳皮 (ちんぴ/chinpi) - 橘子皮
+- ケシの実 (keshi no mi) - 罂粟籽
 
 # 日本料理店实用对话集
 

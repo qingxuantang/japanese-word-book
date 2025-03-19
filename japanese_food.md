@@ -22,7 +22,7 @@
 - 皮ポン酢 (かわぽんず/kawa ponzu) - 柑橘醋汁鸡皮
 - 軟骨入りつくね (なんこついりつくね/nankotsu iri tsukune) - 软骨鸡肉丸
 - 梅肉ささみ (うめにくささみ/umeniku sasami) - 梅子鸡里脊
-- とりかわなんこつ/とりかわきも (torikawa nankotsu/torikawa kimo) - 鸡生蚝（位于脖子与胸部之间）
+- ソリレス soriresu　 - 鸡生蚝
 
 ### 饭类 (Rice Dishes)
 - うな重 (うなじゅう/unajuu) - 鳗鱼饭

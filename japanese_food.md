@@ -24,6 +24,10 @@
 - 梅肉ささみ (うめにくささみ/umeniku sasami) - 梅子鸡里脊
 - ソリレス soriresu　 - 鸡生蚝
 
+### 炸物
+- 唐揚げ　karaage　炸鸡
+- 串カツ kushikatsu 炸串，与烧鸟唯一区别就是炸的
+
 ### 饭类 (Rice Dishes)
 - うな重 (うなじゅう/unajuu) - 鳗鱼饭
 - 天丼 (てんどん/tendon) - 天妇罗盖饭

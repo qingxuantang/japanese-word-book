@@ -37,6 +37,10 @@
 ### 面类 (Noodles)
 - ラーメン (raamen) - 拉面
 - つけ麺 (つけめん/tsukemen) - 沾面
+
+彼女はつけ麺が大好き。(kanojiuwa tsukemenga daisuki)
+（她超喜欢吃沾面。）
+
 - そうめん (soumen) - 素面
 - うどん (udon) - 乌冬面
 - そば (soba) - 荞麦面

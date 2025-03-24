@@ -68,6 +68,10 @@
 
 ### 饮品点单
 - アイスコーヒーをお願いします (aisu koohii wo onegaishimasu) - 请给我一杯冰咖啡
+
+- アイスコーヒーを2つください。
+（あいすこーひー を ふたつ ください。）请给我两杯冰咖啡
+
 - ホットコーヒーをください (hotto koohii wo kudasai) - 请给我一杯热咖啡
 - お水をください (おみずをください/omizu wo kudasai) - 请给我水
 - 生ビールを一杯お願いします (なまビールをいっぱいおねがいします/nama biiru wo ippai onegaishimasu) - 请给我一杯生啤酒

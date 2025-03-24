@@ -72,14 +72,13 @@
 Zenbu nihon zutsu de onegai shimasu.
 意思是：“每样都来两串。”
 
-
----
-
 如果是边点边说，比如点菜时一边说菜单一边说份量，也可以这样说：
 
 ねぎまを2本、砂肝も2本お願いします。
 Negima o nihon, sunagimo mo nihon onegai shimasu.
 葱鸡肉串两串，鸡胗也两串，谢谢。
+
+---
 
 
 ### 饮品点单

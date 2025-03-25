@@ -97,6 +97,13 @@ Negima o nihon, sunagimo mo nihon onegai shimasu.
 - これは辛いですか？ (これはからいですか/kore wa karai desu ka?) - 这个辣吗？
 - アレルギーの原材料は入っていますか？ (アレルギーのげんざいりょうははいっていますか/arerugii no genzairyou wa haitteimasu ka?) - 有过敏原材料吗？
 
+---
+烧酒「いいちこ」的中文名通常被翻译为：
+
+「一番」或「一番酒」，有时也直接音译为**「いいちこ」或者「伊一口」**。
+
+---
+
 ### 数量表达
 - 一人前 (いちにんまえ/ichininmae) - 一份
 - 二つ (ふたつ/futatsu) - 两个

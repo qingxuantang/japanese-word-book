@@ -111,6 +111,9 @@ Negima o nihon, sunagimo mo nihon onegai shimasu.
 - 大盛り (おおもり/oomori) - 大份
 - 普通盛り (ふつうもり/futsuumori) - 普通份量
 
+## 餐具
+- おはし🥢　お箸　(ohashi)筷子
+
 ## 调味料和配料 (Seasonings & Condiments)
 - わさび (wasabi) - 芥末
 - 醤油 (しょうゆ/shouyu) - 酱油
